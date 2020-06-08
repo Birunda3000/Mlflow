@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/esdn6/Documents/MeusProjetos/Mlflow-git2/mlruns/0/4b070ff7a06b47a69c237d7042c983bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4b070ff7a06b47a69c237d7042c983bf
+run_uuid: 4b070ff7a06b47a69c237d7042c983bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1591651163321
+status: 1
+tags: []
+user_id: esdn6
